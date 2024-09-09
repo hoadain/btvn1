@@ -4,15 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{46AC1E9D-02D3-4648-8F45-45BD92A83E5F}</ProjectGuid>
+    <ProjectGuid>{57961314-AA39-4E75-A97A-6CC6E085B22E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>btvn1</RootNamespace>
-    <AssemblyName>btvn1</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <RootNamespace>TinhLaiSuat</RootNamespace>
+    <AssemblyName>TinhLaiSuat</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>

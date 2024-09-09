@@ -5,6 +5,10 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btvn1", "btvn1\btvn1.csproj", "{46AC1E9D-02D3-4648-8F45-45BD92A83E5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "btvn", "btvn\btvn.csproj", "{56D8D65D-CC86-4F15-AD68-854C07C21C14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_use_DLL", "Sum_use_DLL\Sum_use_DLL.csproj", "{2FCA6FDE-703D-4540-A88B-65B3CFF72AC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{46AC1E9D-02D3-4648-8F45-45BD92A83E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46AC1E9D-02D3-4648-8F45-45BD92A83E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46AC1E9D-02D3-4648-8F45-45BD92A83E5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D8D65D-CC86-4F15-AD68-854C07C21C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D8D65D-CC86-4F15-AD68-854C07C21C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D8D65D-CC86-4F15-AD68-854C07C21C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D8D65D-CC86-4F15-AD68-854C07C21C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCA6FDE-703D-4540-A88B-65B3CFF72AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCA6FDE-703D-4540-A88B-65B3CFF72AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCA6FDE-703D-4540-A88B-65B3CFF72AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCA6FDE-703D-4540-A88B-65B3CFF72AC4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
