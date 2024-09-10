@@ -43,7 +43,7 @@ namespace WindowsFormstinhlais
         }
     }
 
-    // Lớp Calculator để tính toán
+    // Lớp Calculator để tính toán   
     public class Calculator
     {
         // Phương thức tính tiền lãi
