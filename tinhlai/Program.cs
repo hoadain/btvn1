@@ -1,18 +1,13 @@
-﻿// Họ và tên: nguyễn đình hòa
-// Bắt đầu làm bài toán: tính lãi xuất tiền gửi 
-using System;
+﻿using System;
 using System.Collections.Generic;
-
 using System.Text;
 
-
-namespace btvn1
+namespace tinhlai
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // Khai báo biến
             double tienGoc, laiSuatNam, soNam, tienLai, tongTien;
 
             // Nhập số tiền gửi ban đầu
@@ -34,7 +29,6 @@ namespace btvn1
             // Hiển thị kết quả
             Console.WriteLine("\nSố tiền lãi sau {0} năm: {1:N0} VND", soNam, tienLai);
             Console.WriteLine("Tổng số tiền sau {0} năm: {1:N0} VND", soNam, tongTien);
-
         }
     }
 }
